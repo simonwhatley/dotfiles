@@ -1,0 +1,10 @@
+[user]
+	name = Simon Whatley
+	email = simonwhatley@gmail.com
+	signingkey =
+[color]
+	ui = auto
+	diff = auto
+	status = auto
+[core]
+	excludesfile = ~/.gitignore_global

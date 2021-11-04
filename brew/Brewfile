@@ -1,0 +1,12 @@
+cask_args appdir: "/Applications"
+
+# Third-party repos (tap)
+
+
+# Homebrew installs (brew)
+
+
+# Homebrew extensions (cask)
+
+
+# Mac App Store (mas)
