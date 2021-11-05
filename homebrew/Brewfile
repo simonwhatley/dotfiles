@@ -1,9 +1,15 @@
 cask_args appdir: "/Applications"
 
 # Third-party repos (tap)
-
+tap "homebrew/cask"
+tap "homebrew/cask-drivers"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "heroku/brew"
 
 # Homebrew installs (brew)
+brew "gnupg"
+brew "heroku"
 brew "node"
 brew "nvm"
 brew "vim"
