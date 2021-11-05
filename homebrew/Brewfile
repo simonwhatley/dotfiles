@@ -1,0 +1,56 @@
+cask_args appdir: "/Applications"
+
+# Third-party repos (tap)
+
+
+# Homebrew installs (brew)
+brew "node"
+brew "nvm"
+brew "vim"
+brew "wget"
+brew "youtube-dl"
+
+# Homebrew extensions (cask)
+cask "1password"
+cask "alfred"
+cask "atom"
+cask "cleanmymac"
+cask "cleanshot"
+cask "dropbox"
+cask "evernote"
+cask "figma"
+cask "google-chrome"
+cask "google-drive"
+cask "moom"
+cask "obs"
+cask "sketch"
+cask "spotify"
+cask "transmit"
+cask "visual-studio-code"
+cask "zoom"
+
+# cask "authy"
+# cask "browserstacklocal"
+# cask "mamp"
+# cask "nordvpn"
+# cask "pdf-squeezer"
+# cask "signal"
+# cask "sip"
+# cask "slack"
+# cask "transmission"
+# cask "whatsapp"
+# cask "xscope"
+
+# Mac App Store (mas)
+mas "Kaleidoscope", id: 587512244
+mas "MindNode", id: 1289197285
+mas "NordVPN", id: 1116599239
+mas "PDF Squeezer 4", id: 1502111349
+mas "Sip", id: 507257563
+mas "Telegram", id: 747648890
+mas "Trello", id: 1278508951
+mas "WhatsApp", id: 1147396723
+mas "Slack", id: 803453959
+
+# mas "Logic Pro", id: 634148309
+# mas "Final Cut Pro", id: 424389933
