@@ -8,10 +8,11 @@ tap "homebrew/cask-versions"
 tap "heroku/brew"
 
 # Homebrew installs (brew)
+brew "coreutils" # needed to install repos scripts
 brew "git"
 brew "gnupg"
 brew "heroku"
-brew "mas" #mas-cli needed to install mac apps below
+brew "mas" # mas-cli needed to install mac apps below
 brew "node"
 brew "nvm"
 brew "vim"
