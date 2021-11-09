@@ -7,4 +7,4 @@
   diff = auto
   status = auto
 [core]
-  excludesfile = ~/.gitignore.global
+  excludesfile = ~/.gitignore_global
