@@ -1,4 +1,4 @@
-cask_args appdir: "/Applications"
+cask_args appdir: "/Applications", fontdir: "/Library/Fonts"
 
 # Third-party repos (tap)
 tap "homebrew/cask"
@@ -8,8 +8,10 @@ tap "homebrew/cask-versions"
 tap "heroku/brew"
 
 # Homebrew installs (brew)
+brew "git"
 brew "gnupg"
 brew "heroku"
+brew "mas" #mas-cli needed to install mac apps below
 brew "node"
 brew "nvm"
 brew "vim"
@@ -27,6 +29,8 @@ cask "evernote"
 cask "figma"
 cask "google-chrome"
 cask "google-drive"
+cask "imageoptim"
+cask "iterm2"
 cask "moom"
 cask "obs"
 cask "sketch"
