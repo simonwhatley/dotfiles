@@ -39,3 +39,7 @@ git clone https://github.com/simonwhatley/dotfiles.git ~/dotfiles
 ### Run the installation script
 
 Run the `install.sh` script, or run the `setup.sh` scripts in each sub-folder if you don’t need everything.
+
+```
+sh install.sh
+```
