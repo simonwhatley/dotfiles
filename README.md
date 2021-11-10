@@ -1,9 +1,8 @@
 # dotfiles
 
+This repository contains everything to set up my MacBook Pro.
 
 ## Installation
-
-On macOS
 
 ### Install Xcode command line tools
 
@@ -43,3 +42,32 @@ Run the `install.sh` script, or run the `setup.sh` scripts in each sub-folder if
 ```
 sh install.sh
 ```
+
+## Kudos
+
+Thanks goes to the following people and organisations for sharing their `dotfiles`:
+
+- [Adam Silver](https://github.com/adamsilver/dotfiles)
+- [Lars Kappert](https://github.com/webpro/dotfiles)
+- [Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
+- [Michael Friedrich](https://gitlab.com/dnsmichi/dotfiles)
+- [Rosco Kalis](https://github.com/rkalis/dotfiles)
+- [Thoughtbot](https://github.com/thoughtbot/dotfiles)
+
+## Support
+
+This repository is maintained by Simon Whatley. If you’ve got a question or need support you can:
+
+* Email support@humanedesign.co putting the repository name in the subject line.
+* [View known issues on GitHub](https://github.com/simonwhatley/dotfiles/issues).
+
+## Contributing
+
+If you’ve got an idea or suggestion you can:
+
+* Email contribute@humanedesign.co putting the repository name in the subject line.
+* [Create a GitHub issue](https://github.com/simonwhatley/dotfiles/issues).
+
+## Licence
+
+Unless otherwise stated, this codebase is released under the [MIT License](https://github.com/simonwhatley/dotfiles/blob/master/LICENSE). This covers both the codebase and any sample code in the documentation.
