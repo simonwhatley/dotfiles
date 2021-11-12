@@ -43,6 +43,16 @@ Run the `install.sh` script, or run the `setup.sh` scripts in each sub-folder if
 sh install.sh
 ```
 
+### Install Oh My Zsh
+
+I use [Oh My Zsh](https://ohmyz.sh/) to manage my Zsh configuration.
+
+In terminal, run the following command to install Oh My Zsh:
+
+```
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 ## Kudos
 
 Thanks goes to the following people and organisations for sharing their `dotfiles`:
