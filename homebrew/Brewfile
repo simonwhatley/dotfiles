@@ -1,6 +1,7 @@
 cask_args appdir: "/Applications", fontdir: "/Library/Fonts"
 
 # Third-party repos (tap)
+tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
@@ -8,7 +9,7 @@ tap "homebrew/cask-versions"
 tap "heroku/brew"
 
 # Homebrew installs (brew)
-brew "coreutils" # needed to install repos scripts
+brew "coreutils" # needed for the repo setup script
 brew "git"
 brew "gnupg"
 brew "heroku"
