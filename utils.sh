@@ -25,7 +25,7 @@ clear_broken_symlinks() {
   done
 }
 
-# Took these printing functions from https://github.com/Sajjadhosn/dotfiles
+# Took these printing functions from https://github.com/sam-hosseini/dotfiles
 coloredEcho() {
   local exp="$1";
   local color="$2";
