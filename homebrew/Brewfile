@@ -13,6 +13,7 @@ brew "coreutils" # needed for the repo setup script
 brew "git"
 brew "gnupg"
 brew "heroku"
+brew "mackup"
 brew "mas" # mas-cli needed to install mac apps below
 brew "node"
 brew "nvm"
