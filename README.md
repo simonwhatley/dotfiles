@@ -64,6 +64,8 @@ Thanks goes to the following people and organisations for sharing their `dotfile
 - [Rosco Kalis](https://github.com/rkalis/dotfiles)
 - [Thoughtbot](https://github.com/thoughtbot/dotfiles)
 
+For more information on `.gitignore`, GitHub has a [gitignore repo](https://github.com/github/gitignore).
+
 ## Support
 
 This repository is maintained by Simon Whatley. If you’ve got a question or need support you can:
