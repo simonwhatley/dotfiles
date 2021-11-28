@@ -29,7 +29,6 @@ cask "authy"
 cask "cleanmymac"
 cask "cleanshot"
 cask "dropbox"
-cask "evernote"
 cask "figma"
 cask "google-chrome"
 cask "google-drive"
@@ -43,8 +42,8 @@ cask "transmit"
 cask "visual-studio-code"
 cask "zoom"
 
-# cask "authy"
 # cask "browserstacklocal"
+# cask "evernote"
 # cask "mamp"
 # cask "nordvpn"
 # cask "pdf-squeezer"
@@ -56,15 +55,18 @@ cask "zoom"
 # cask "xscope"
 
 # Mac App Store (mas)
+mas "Evernote", id: 406056744
+mas "GIF Brewery", id: 1081413713
 mas "Kaleidoscope", id: 587512244
+mas "Keynote", id: 409183694
 mas "MindNode", id: 1289197285
 mas "NordVPN", id: 1116599239
 mas "PDF Squeezer 4", id: 1502111349
 mas "Sip", id: 507257563
+mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
 mas "Trello", id: 1278508951
 mas "WhatsApp", id: 1147396723
-mas "Slack", id: 803453959
 
 # mas "Logic Pro", id: 634148309
 # mas "Final Cut Pro", id: 424389933
