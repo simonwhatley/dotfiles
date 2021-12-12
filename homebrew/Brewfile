@@ -34,7 +34,6 @@ cask "google-chrome"
 cask "google-drive"
 cask "imageoptim"
 cask "iterm2"
-cask "moom"
 cask "obs"
 cask "sketch"
 cask "spotify"
@@ -45,6 +44,7 @@ cask "zoom"
 # cask "browserstacklocal"
 # cask "evernote"
 # cask "mamp"
+# cask "moom"
 # cask "nordvpn"
 # cask "pdf-squeezer"
 # cask "signal"
@@ -60,6 +60,7 @@ mas "GIF Brewery", id: 1081413713
 mas "Kaleidoscope", id: 587512244
 mas "Keynote", id: 409183694
 mas "MindNode", id: 1289197285
+mas "Moom", id: 419330170
 mas "NordVPN", id: 1116599239
 mas "PDF Squeezer 4", id: 1502111349
 mas "Sip", id: 507257563
