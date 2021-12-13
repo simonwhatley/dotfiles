@@ -30,6 +30,7 @@ cask "cleanmymac"
 cask "cleanshot"
 cask "dropbox"
 cask "figma"
+cask "github"
 cask "google-chrome"
 cask "google-drive"
 cask "imageoptim"
@@ -61,7 +62,7 @@ mas "Kaleidoscope", id: 587512244
 mas "Keynote", id: 409183694
 mas "MindNode", id: 1289197285
 mas "Moom", id: 419330170
-mas "NordVPN", id: 1116599239
+mas "NordVPN", id: 905953485
 mas "PDF Squeezer 4", id: 1502111349
 mas "Sip", id: 507257563
 mas "Slack", id: 803453959
