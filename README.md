@@ -59,10 +59,13 @@ Thanks goes to the following people and organisations for sharing their `dotfile
 
 - [Adam Silver](https://github.com/adamsilver/dotfiles)
 - [Lars Kappert](https://github.com/webpro/dotfiles)
+- [Marius Gedminas](https://github.com/mgedmin/dotfiles)
 - [Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
 - [Michael Friedrich](https://gitlab.com/dnsmichi/dotfiles)
 - [Rosco Kalis](https://github.com/rkalis/dotfiles)
 - [Thoughtbot](https://github.com/thoughtbot/dotfiles)
+
+You can read more about dotfiles in this [unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/tutorials/) and on [GitLab’s blog](https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/).
 
 For more information on `.gitignore`, GitHub has a [gitignore repo](https://github.com/github/gitignore).
 
